@@ -2,6 +2,11 @@ import os
 import pandas as pd
 import json
 import argparse
+##############################################
+##########      Data Science Academy  ########
+##########     https:/datascience.one ########
+##############################################
+
 
 def remove_non_printable(text):
     # Remove non-printable characters and Unicode escape sequences
