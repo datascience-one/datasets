@@ -1,0 +1,21 @@
+Question,Answer
+What is Python?,"Python is a high-level, interpreted programming language known for its easy readability and broad library support."
+How do you create a list in Python?,"You create a list in Python by placing comma-separated values within square brackets, e.g., my_list = [1, 2, 3]."
+What is a dictionary in Python?,"A dictionary in Python is a collection of key-value pairs, defined within curly braces, e.g., my_dict = {'key1': 'value1', 'key2': 'value2'}."
+How do you write a function in Python?,"You write a function in Python using the def keyword followed by the function name and parentheses, e.g., def my_function(): pass."
+What is a lambda function?,"A lambda function is an anonymous function defined with the lambda keyword, e.g., lambda x: x + 1."
+How do you handle exceptions in Python?,Exceptions in Python are handled using try and except blocks.
+What is the difference between a list and a tuple?,"A list is mutable, meaning it can be changed after creation, while a tuple is immutable."
+How do you open a file in Python?,"You open a file in Python using the open() function, e.g., file = open('file.txt', 'r')."
+What is a class in Python?,"A class in Python is a blueprint for creating objects, defined using the class keyword."
+How do you create an object in Python?,"You create an object in Python by calling the class, e.g., my_object = MyClass()."
+What is inheritance in Python?,Inheritance in Python allows a class to inherit attributes and methods from another class.
+How do you import a module in Python?,"You import a module in Python using the import statement, e.g., import math."
+What is the difference between '==' and 'is' in Python?,"'==' checks for equality of values, while 'is' checks for identity (if they are the same object)."
+How do you create a virtual environment in Python?,"You create a virtual environment in Python using the venv module, e.g., python -m venv myenv."
+What is a generator in Python?,A generator in Python is a function that returns an iterator and is defined using the yield keyword.
+How do you install a package in Python?,"You install a package in Python using pip, e.g., pip install package_name."
+What is the use of the 'self' keyword in Python?,The 'self' keyword in Python is used to represent an instance of the class and access its attributes and methods.
+How do you comment in Python?,You comment in Python using the # symbol for single-line comments and triple quotes for multi-line comments.
+What is the Global Interpreter Lock (GIL)?,"The Global Interpreter Lock (GIL) is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes simultaneously."
+How do you perform string formatting in Python?,"String formatting in Python can be done using the format() method, f-strings, or the % operator."
